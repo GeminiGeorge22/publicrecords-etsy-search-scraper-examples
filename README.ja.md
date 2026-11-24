@@ -1,5 +1,8 @@
 # Etsy Search Scraper — 使用例
 
+[![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-etsy-search-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-etsy-search-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 キーワードによるEtsy検索結果：価格、評価、レビュー、Bestsellerバッジ、広告フラグ、順位。
 
 このActorは**あなた自身の**Apifyアカウント（APIトークンまたはOAuth）で実行します。利用料はApifyの無料または有料プランであなたに課金されます。
